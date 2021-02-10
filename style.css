@@ -1,0 +1,21 @@
+html {
+    background: yellow;
+}
+#red {
+    width: 400px;
+    height: 1000px;
+    background: red;
+    display: inline-block;
+    }
+#green {
+    width: 400px;
+    height: 1000px;
+    background: green;
+    display: inline-block;  
+}
+#blue {
+    width: 400px;
+    height: 1000px;
+    background: blue;
+    display: inline-block;  
+}
