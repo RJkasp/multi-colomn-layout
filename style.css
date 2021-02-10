@@ -2,20 +2,26 @@ html {
     background: yellow;
 }
 #red {
-    width: 400px;
+    width: 300px;
     height: 1000px;
     background: red;
     display: inline-block;
     }
 #green {
-    width: 400px;
+    width: 300px;
     height: 1000px;
     background: green;
     display: inline-block;  
 }
-#blue {
-    width: 400px;
+#blue { width: 300px;
     height: 1000px;
     background: blue;
     display: inline-block;  
+}
+   
+#purple {
+    width: 300px;
+    height: 1000px;
+    background: purple;
+    display: inline-block; 
 }
