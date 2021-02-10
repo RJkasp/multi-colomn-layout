@@ -1,27 +1,43 @@
 html {
     background: yellow;
 }
+/* pt,vh */
 #red {
-    width: 300px;
-    height: 1000px;
+    width: 225pt;
+    height: 50vh;
     background: red;
     display: inline-block;
     }
+    /* px,vh */
 #green {
     width: 300px;
-    height: 1000px;
+    height: 50vh;
     background: green;
     display: inline-block;  
 }
 #blue { width: 300px;
-    height: 1000px;
+    height: 50vh;
     background: blue;
     display: inline-block;  
 }
    
 #purple {
     width: 300px;
-    height: 1000px;
+    height: 50vh;
     background: purple;
     display: inline-block; 
+}
+/* rem,% */
+h1 {
+    font-size: 2rem;
+    background: white ;
+    width: 50%;
+}
+/* vw */
+section {
+    width: 1200vw;
+
+}
+p {
+    font-size: 1.5em;
 }
